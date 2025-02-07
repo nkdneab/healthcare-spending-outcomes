@@ -12,7 +12,7 @@ This project analyzes healthcare spending and its relationship with health outco
 
 ## 📌 Insight
 
-##Where Does the Money Go? Ranking America's Healthcare Spending Priorities
+## Where Does the Money Go? Ranking America's Healthcare Spending Priorities
 
 ![Ranking America's Healthcare Spending](https://github.com/user-attachments/assets/e08273ff-587e-4390-bc26-5b1d3078400c)
 
@@ -26,7 +26,7 @@ Spending Trends (1999–2016):
 
 **Insight**: More spending focuses on essential healthcare areas, leading to improved outcomes (lower death rates).
 
-##Can Money Cure It All? Healthcare Spending vs Death Rates
+## Can Money Cure It All? Healthcare Spending vs Death Rates
 
 <img width="948" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/bb3fd50d-d687-44df-bdeb-0dd10673ac80" />
 
