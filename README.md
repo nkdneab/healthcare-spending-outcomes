@@ -7,9 +7,7 @@ This project analyzes healthcare spending and its relationship with health outco
 - `Are We Wasting Billions? A Deep Dive into Healthcare Spending and Outcomes.ipynb` – Jupyter Notebook containing the analysis.
 - `data/` – Folder for datasets used in the analysis (if applicable).
 - `figures/` – Folder containing visualizations and plots generated in the notebook.
-- `requirements.txt` – List of dependencies needed to run the notebook.
 - `README.md` – This file, providing an overview of the project.
-- `.gitignore` – Specifies files and folders to exclude from version control (e.g., temporary files, large datasets).
 
 ## 🚀 Getting Started
 1. Clone the repository:
