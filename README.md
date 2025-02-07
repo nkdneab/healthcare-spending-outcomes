@@ -5,6 +5,7 @@ This project analyzes healthcare spending and its relationship with health outco
 
 ## 📂 Repository Structure
 - `Are We Wasting Billions? A Deep Dive into Healthcare Spending and Outcomes.ipynb` – Jupyter Notebook containing the analysis.
+- `US_Mortality_Trends.ipynb` – Jupyter Notebook containing the analysis.
 - `data/` – Folder for datasets used in the analysis (if applicable).
 - `figures/` – Folder containing visualizations and plots generated in the notebook.
 - `README.md` – This file, providing an overview of the project.
