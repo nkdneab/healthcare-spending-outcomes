@@ -12,5 +12,5 @@ This project analyzes healthcare spending and its relationship with health outco
 ## 🚀 Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
+   git clone https://github.com/nkdneab/healthcare-spending-outcomes.git
+   cd healthcare-spending-outcomes
